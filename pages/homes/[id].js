@@ -146,4 +146,4 @@ export async function getStaticProps({ params }) {
   };
 }
 
-export default ListedHome;
+export default ListedHome;
