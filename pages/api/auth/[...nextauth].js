@@ -79,4 +79,4 @@ export default NextAuth({
   ],
   adapter: PrismaAdapter(prisma),
   events: { createUser: sendWelcomeEmail },
-});
+});
