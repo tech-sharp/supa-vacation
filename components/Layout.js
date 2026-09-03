@@ -194,4 +194,4 @@ Layout.propTypes = {
   children: PropTypes.oneOfType([PropTypes.node, PropTypes.func]),
 };
 
-export default Layout;
+export default Layout;
